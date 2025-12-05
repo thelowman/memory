@@ -61,6 +61,47 @@ https://upload.wikimedia.org/wikipedia/commons/6/6e/Drum_and_xylophone_toy.svg
 cybergedeon, CC0, via Wikimedia Commons
 https://upload.wikimedia.org/wikipedia/commons/a/af/Caution_UFO.svg
 
+Everaldo Coelho (YellowIcon);, LGPL <http://www.gnu.org/licenses/lgpl.html>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/0/08/Crystal128-package-toys.svg
+
+LadyofHats, CC0, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/6/62/Smiley_green_alien_sword.svg
+
+User:AllyUnion, User:Stannered, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/7/75/Science-symbol-2.svg
+
+Angelus, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/d/df/Science_history_icon.svg
+
+Averater, CC0, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/b/b8/Lots_of_math_symbols_and_numbers.svg
+
+Plaga med, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/a/a9/P_train-blue.svg
+
+MLWatts, Public domain, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Baracchini.svg
+
+AnonymousUnknown author, Public domain, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/2/24/Trolley_car_%28American_Type_Founders_No._4168C%29.svg
+
+AnonymousUnknown author, Public domain, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Roadster_Bicycle_of_1886.svg
+
+Pat Sullivan, or Otto Messmer, Public domain, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/c/c8/Felix_Cat-Haha.svg
+
+Paul Robinson, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/7/7e/Hot_dog.svg
+
+See page for author, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/3/35/Oak_tree_eradicated_with_99_leaves.svg
+
+John Tenniel, Public domain, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/d/da/Alice_par_John_Tenniel_02.png
+
+Biglinux-Beitragende, GPLv3 <http://www.gnu.org/licenses/gpl-3.0.html>, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/1/11/Biglinux-Icons_%E2%80%93_alien-arena.svg
 
 0. iStock by Getty Images from Pexels
 1. Images courtesy of Pexels / Flickr
