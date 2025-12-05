@@ -97,8 +97,8 @@ https://upload.wikimedia.org/wikipedia/commons/7/7e/Hot_dog.svg
 See page for author, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 https://upload.wikimedia.org/wikipedia/commons/3/35/Oak_tree_eradicated_with_99_leaves.svg
 
-John Tenniel, Public domain, via Wikimedia Commons
-https://upload.wikimedia.org/wikipedia/commons/d/da/Alice_par_John_Tenniel_02.png
+OpenClipart-Vectors, CC0, via Wikimedia Commons
+https://upload.wikimedia.org/wikipedia/commons/f/f3/Pepperoni_pizza_slice.svg
 
 Biglinux-Beitragende, GPLv3 <http://www.gnu.org/licenses/gpl-3.0.html>, via Wikimedia Commons
 https://upload.wikimedia.org/wikipedia/commons/1/11/Biglinux-Icons_%E2%80%93_alien-arena.svg
